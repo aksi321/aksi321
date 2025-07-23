@@ -1,6 +1,6 @@
 ### Tech stack:
-![С++](https://img.shields.io/badge/С++-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![С++](https://img.shields.io/badge/С++-%23007ACC.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23007ACC.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
 ### Статистика:
 
