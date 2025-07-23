@@ -2,7 +2,7 @@
 ![С++](https://img.shields.io/badge/С++-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### &#129299; Статистика:
+### Статистика:
 
 [![Codewarrior Profile Badges](https://www.codewars.com/users/Aksi___/badges/large)](https://www.codewars.com/users/Aksi___)
 <div>
