@@ -1,16 +1,15 @@
-## Hi there 👋
+### Tech stack:
+![С++](https://img.shields.io/badge/С++-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<!--
-**aksi321/aksi321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### &#129299; Статистика:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Codewarrior Profile Badges](https://www.codewars.com/users/Aksi___/badges/large)](https://www.codewars.com/users/Aksi___)
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=aksi321&hide=contribs&show_icons=true">
+  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=aksi321&hide=contribs&show_icons=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=aksi321&layout=compact">
+  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksi321&layout=compact" />
+</a>
+</div>
